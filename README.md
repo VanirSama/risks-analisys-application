@@ -29,7 +29,7 @@ cd path\to\your\project
 Скопируйте файлы проекта в новую папку
 
 ```commandline
-git clone https://github.com/VanirSama/risks-analization-application.git
+git clone https://github.com/VanirSama/risks-analisys-application.git
 ```
 
 ## Создайте и активируйте виртуальную среду
