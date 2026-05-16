@@ -1,4 +1,4 @@
-[![AURA_logo](src/assets/Logo.png "Aura Logo")]()
+[![AURA_logo](src/assets/icons/logo.png "Aura Logo")]()
 
 ---
 
